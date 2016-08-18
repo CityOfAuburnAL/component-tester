@@ -1,0 +1,23 @@
+{
+  "name": "component-tester",
+  "homepage": "https://github.com/CityOfAuburnAL",
+  "authors": [
+    "Chris Griffin <chris.sgriffin@gmail.com>"
+  ],
+  "description": "To run node in VS Code and test components",
+  "main": "app.js",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "visual-studio-code",
+	"test"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CityOfAuburnAl/component-tester.git"
+  },
+  "devDependencies": {
+    "app-storage": "CityOfAuburnAL/app-cooke-document#*"
+  }
+}
