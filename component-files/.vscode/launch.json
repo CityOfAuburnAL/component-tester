@@ -5,10 +5,10 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "C:/VSCodeSource/app.js",
+			"program": "C:/component-tester/app.js",
 			"stopOnEntry": false,
 			"args": [],
-			"cwd": "C:/VSCodeSource/",
+			"cwd": "C:/component-tester/",
 			"preLaunchTask": null,
 			"runtimeExecutable": null,
 			"runtimeArgs": [
@@ -18,27 +18,6 @@
 				"NODE_ENV": "development"
 			},
 			"externalConsole": false,
-			"sourceMaps": false,
-			"outDir": null
-		},
-		{
-			"name": "Attach",
-			"type": "node",
-			"request": "attach",
-			"port": 5858,
-			"address": "localhost",
-			"restart": false,
-			"sourceMaps": false,
-			"outDir": null,
-			"localRoot": "C:/VSCodeSource/",
-			"remoteRoot": null
-		},
-		{
-			"name": "Attach to Process",
-			"type": "node",
-			"request": "attach",
-			"processId": "${command.PickProcess}",
-			"port": 5858,
 			"sourceMaps": false,
 			"outDir": null
 		}

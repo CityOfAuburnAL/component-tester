@@ -1,0 +1,30 @@
+{
+  "name": "REPLACE",
+  "homepage": "https://github.com/CityOfAuburnAL",
+  "authors": [
+    "Chris Griffin <chris.sgriffin@gmail.com>"
+  ],
+  "description": "REPLACE",
+  "main": "REPLACE.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "REPLACE"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CityOfAuburnAl/REPLACE.git"
+  },
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.6.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  }
+}

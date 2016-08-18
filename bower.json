@@ -4,7 +4,7 @@
   "authors": [
     "Chris Griffin <chris.sgriffin@gmail.com>"
   ],
-  "description": "To run node in VS Code and test components",
+  "description": "To run node in VS Code and test components. Not intended for general consumption.",
   "main": "app.js",
   "keywords": [
     "web-components",
